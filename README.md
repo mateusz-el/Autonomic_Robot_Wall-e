@@ -27,12 +27,8 @@ Co zrobiłem w projekcie?
 •	Testowałem czujniki do wykrywania przeszkód, taśmy aluminiowej oraz magnetycznej w celu wyboru najlepszego czujnika.
 •	Wykonałem obudowę robota, dzięki czemu była możliwość zamontowania mikrokontrolera, czujników i sterownika silników.
 •	Wykonałem odpowiednie otwory mocujące w oboudowei, zamontowałem elementy, połączyłem je przewodami ze sobą, stworzyłem płytkę z goldpinami do rozciągniecia zasilania 5V.
-•	Za pomocą programu STM32 Cube IDE zaprogramowałem mikrokontroler STM32 Cube IDE, aby pojazd był w stanie odpowiednio reagować na przeszkody, nie wjeżdzać na nie, nie wyjeżdzać poza ograniczony obszar oraz wykrywać metę.
+•	Za pomocą programu STM32 Cube IDE napisałem program, obsługujący wszystkie czujniki, aby pojazd był w stanie odpowiednio reagować na przeszkody, nie wjeżdzać na nie, nie wyjeżdzać poza ograniczony obszar oraz wykrywać metę.
 •	Byłem odpowiedzialny za estetykę i wygląd robota.
 
+Mimo niezbyt dobrego zgrania zespołu pojazd zajął drugie miejsce na 6! Świetnie wykrywał przeszkody, nie wyjechał poza ograniczony obszar! Niestety nie dojechał do mety ze względu na rozładowanie się akumulatora i braku zapasowego (ograniczony budżet)
 
-
-
-
-ENGLISH
-This project was about designing, 
