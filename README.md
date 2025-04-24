@@ -1,4 +1,4 @@
-# Autonomic_Robot_Wall-e
+# Autonomic_Robot_Wall-E
 
 POLISH
 Projekt wykonano w ramach studiów na Politechnice Łódzkiej na kierunku elektronika i telekomunikacja. Projekt ten polegal na zaprojektowaniu, zbudowaniu i zaprogramowaniu autonomicznego pojazdu elektronicznego. Pojazd autonomiczny oznacza, że nie steruje nim zdalnie człowiek w żaden sposób, jedynie ma kierować się w kierunku celu na podstawie napisanego kodu programu. Zespół projektowy składał się z 5 osób, z czego ja wykonałem około 70% pracy, ze względu na to, że większość grupy nie miała czasu ani chęci się zebrać. Jedna osoba faktycznie wykonała powierzone zadania w 100%, druga w 50%, a pozostała dwójka osób niestety nie wykazała się znaczącą pracą. 
