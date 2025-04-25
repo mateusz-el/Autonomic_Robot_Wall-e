@@ -1,6 +1,7 @@
 # Autonomic_Robot_Wall-E
 
 POLISH
+Status projektu: zakończony
 Projekt wykonano w ramach studiów na Politechnice Łódzkiej na kierunku elektronika i telekomunikacja. Projekt ten polegal na zaprojektowaniu, zbudowaniu i zaprogramowaniu autonomicznego pojazdu elektronicznego. Pojazd autonomiczny oznacza, że nie steruje nim zdalnie człowiek w żaden sposób, jedynie ma kierować się w kierunku celu na podstawie napisanego kodu programu. Zespół projektowy składał się z 5 osób, z czego ja wykonałem około 70% pracy, ze względu na to, że większość grupy nie miała zbytnio czasu. Jedna osoba faktycznie wykonała powierzone zadania w 100%, druga w 50%, a pozostała dwójka osób niestety nie wykazała się znaczącą pracą. 
 
 Założenia projektu:
@@ -50,6 +51,7 @@ Mimo niezbyt dobrego zgrania zespołu pojazd zajął drugie miejsce na 6! Świet
 
 
 ENGLISH
+Project Status: Completed
 The project was carried out as part of studies at the Lodz University of Technology in the field of electronics and telecommunications. This project consisted of designing, building and programming an autonomous electronic vehicle. An autonomous vehicle means that it is not remotely controlled by a human in any way, it only steers towards a destination based on written program code. The project team consisted of 5 people, of which I did about 70% of the work, due to the fact that most of the group did not have much time. One person actually completed the assigned tasks 100%, the other 50%, and the remaining two people unfortunately did not show any significant work.
 
 Project assumptions:
