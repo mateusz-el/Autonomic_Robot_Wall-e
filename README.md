@@ -18,6 +18,7 @@ Założenia projektu:
 •	Pojazd nie może mieć wystających części poza obrys podwozia.
 
 Wykorzystane elementy w projekcie:
+•	1x Podwozie robota Black Gladiator
 •	2x Akumulator Samsung INR18650-30Q 3000mAh
 •	1x Mikrokontroler STM32 NUCLEO-L476RG
 •	1x Czujnik ultradźwiękowy HC-SR04
@@ -40,7 +41,7 @@ Co zrobiłem w projekcie?
 •	Wspólnie z kolegą i koleżanką zaprojektowaliśmy wygląd naszego robota.
 •	Testowałem czujniki do wykrywania przeszkód, taśmy aluminiowej oraz magnetycznej w celu wyboru najlepszego czujnika.
 •	Wykonałem obudowę robota, dzięki czemu była możliwość zamontowania mikrokontrolera, czujników i sterownika silników.
-•	Wykonałem odpowiednie otwory mocujące w oboudowei, zamontowałem elementy, połączyłem je przewodami ze sobą, stworzyłem płytkę z goldpinami do rozciągniecia zasilania 5V.
+•	Wykonałem odpowiednie otwory mocujące w obudowie, zamontowałem elementy, połączyłem je przewodami ze sobą, stworzyłem płytkę z goldpinami do rozciągniecia zasilania 5V.
 •	Za pomocą programu STM32 Cube IDE napisałem program, obsługujący wszystkie czujniki, aby pojazd był w stanie odpowiednio reagować na przeszkody, nie wjeżdzać na nie, nie wyjeżdzać poza ograniczony obszar oraz wykrywać metę.
 •	Byłem odpowiedzialny za estetykę i wygląd robota.
 
@@ -66,6 +67,7 @@ Project assumptions:
 • The vehicle cannot have any parts protruding beyond the outline of the chassis
 
 Elements used in the project:
+• 1x Black Gladiator Robot Chassis
 • 2x Samsung INR18650-30Q 3000mAh Battery
 • 1x STM32 NUCLEO-L476RG Microcontroller
 • 1x HC-SR04 Ultrasonic Sensor
