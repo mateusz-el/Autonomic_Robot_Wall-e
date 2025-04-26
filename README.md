@@ -84,7 +84,6 @@ Elements used in the project:
 • Masking Tape
 
 1. To detect obstacles (cardboard boxes) we used digital infrared reflection sensors and one HC-SR04 ultrasonic sensor
-
 2. We also decided to choose digital infrared reflection sensors to detect the boundary of the area (aluminum tape). We wanted to use analog infrared reflection sensors, but there was a problem with programming them on STM32, but there was no problem with digital ones.
 3. To detect the finish line (magnetic tape), we decided on the DF Robot Gravity Hall sensor, because there was no better alternative at a similar price. It had to be placed only a few millimeters above the ground to be able to detect the magnetic tape.
 4. We used the RTC clock of the microcontroller to record the travel time.
